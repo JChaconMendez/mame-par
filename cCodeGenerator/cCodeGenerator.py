@@ -4,7 +4,6 @@ by JChaconMencez
 """
 
 import numpy as np
-import os
 
 def writetextfile(namefile, text):  # Función para escribir un string en un fichero
     try:
